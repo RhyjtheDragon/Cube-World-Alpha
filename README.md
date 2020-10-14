@@ -3,4 +3,4 @@ All files surrounding Cube World Alpha version.
 
 Since I don't actually know anything about GitHub, contained within this readme will be a link to a dropbox download where the Cube World Alpha can be obtained.
 
-https://www.dropbox.com/sh/n5qb9gnjb64jhag/AAAopwYQVnKwhPJI1QmaV4-sa?dl=0
+https://www.dropbox.com/sh/b55kd4r7rhc9d4z/AADoo-y-80leIKkd0a7vNQbga?dl=0
